@@ -7,3 +7,8 @@ This is the first big project assigned so far in the curriculum. There is no bas
 In this project, I will be using many of the skills that have been covered in the curriculum, though I feel that FlexBox will be the one most prevalent throughout the code.
 
 The concept I am going off of is one of a freelance photography company. The content may not be as fancy as possible, but I will return later and incrementally update it to look better. For now, I only want to make sure I understand the concepts that I have been taught thus far in the curriculum.
+
+PHOTO CREDITS IN ORDER OF APPEARANCE
+
+Black DSLR - Pixabay <a href="https://www.pexels.com/photo/black-dslr-camera-on-white-surface-51383/">[LINK]</a>
+Headshot of Woman -
