@@ -13,12 +13,24 @@ body {
 
 .sectionOne {
   background-color: #1f2937;
-  padding: 10px 200px;
+  padding: 10px 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+h1,
+p {
+  color: #f9faf8;
 }
 
 h1 {
   font-size: 24px;
-  color: #f9faf8;
+}
+
+.sectionOne p {
+  font-size: 18px;
+  line-height: 32px;
 }
 
 .header {
@@ -46,6 +58,33 @@ h2 {
   color: #f9faf8;
 }
 
+.sectionOne img {
+  width: 400px;
+  height: auto;
+  border-radius: 20px;
+  flex-shrink: 0;
+}
+
+.sectionOneContent {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  display: flex;
+  gap: 20px;
+}
+
+.sectionOneText {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sectionOne button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
 /* Section Two */
 
 /* Section Three */
