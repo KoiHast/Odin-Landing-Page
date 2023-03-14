@@ -20,7 +20,7 @@ body {
 }
 
 h1,
-p {
+.sectionOne p {
   color: #f9faf8;
 }
 
@@ -52,7 +52,7 @@ a {
   color: #e5e7eb;
 }
 
-h2 {
+.sectionOne h2 {
   font-size: 48px;
   font-weight: 900;
   color: #f9faf8;
@@ -86,6 +86,38 @@ h2 {
   border-radius: 10px;
 }
 /* Section Two */
+
+.sectionTwo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.sectionTwo h2 {
+  font-size: 36px;
+}
+
+.testimonials {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  gap: 30px;
+}
+
+.test img {
+  width: 200px;
+  border: 2px solid #3882f6;
+  border-radius: 10px;
+}
+
+.test {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+}
 
 /* Section Three */
 
