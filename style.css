@@ -60,7 +60,7 @@ a {
 }
 
 .sectionOne img {
-  width: 400px;
+  width: 500px;
   height: auto;
   border-radius: 20px;
   flex-shrink: 0;
@@ -70,6 +70,7 @@ a {
   padding-top: 20px;
   padding-bottom: 50px;
   display: flex;
+  justify-content: space-between;
   gap: 20px;
 }
 
@@ -79,12 +80,26 @@ a {
   justify-content: space-between;
 }
 
+.sectionOneText p {
+  max-width: 750px;
+  font-size: 20px;
+}
+
 button {
   background-color: #3882f6;
   color: #f9faf8;
   padding: 10px 20px;
   border: none;
   border-radius: 10px;
+}
+
+.sectionOneContent button {
+  padding: 20px 40px;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #7eb0ff;
 }
 /* Section Two */
 
