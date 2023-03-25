@@ -10,8 +10,13 @@ The concept I am going off of is one of a freelance photography company. The con
 
 - - - PHOTO CREDITS IN ORDER OF APPEARANCE - - -
 
+<h2>Home Page</h2>
 Black DSLR - Pixabay <a href="https://www.pexels.com/photo/black-dslr-camera-on-white-surface-51383/">[LINK]</a><br>
 Headshot of Woman - Andrea Piacquadio <a href="https://www.pexels.com/photo/woman-wearing-coat-762020/">[LINK]</a><br>
 Boy at Prom - Kamshotthat <a href="https://www.pexels.com/photo/man-wearing-black-suit-jacket-with-teal-bowtie-3217111/">[LINK]</a><br>
 Couple at Wedding - Pham Hoang Kha <a href="https://www.pexels.com/photo/man-in-black-suit-kissing-a-woman-in-white-dress-3785644/">[LINK]</a><br>
 Baby on Blanket - Sam Rana <a href="https://www.pexels.com/photo/toddler-lying-on-pink-fleece-pad-1442005/">[LINK]</a>
+<br>
+<h2>About Page</h2>
+Girl with Camera - ATC Comm Photo <a href="https://www.pexels.com/photo/woman-taking-photo-302355/">[LINK]</a>
+Two Hands on Bouquet - wendel moretti <a href="https://www.pexels.com/photo/man-and-woman-s-hands-on-top-of-ball-bouquet-1730877/">[LINK]</a>

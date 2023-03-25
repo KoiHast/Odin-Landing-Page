@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,900;1,300&display=swap");
+
+/* Global Styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* General Styles */
+
+.header,
+.sectionOne,
+.sectionTwo {
+  padding: 20px 60px;
+}
+
+.sectionOne p,
+.sectionTwo p {
+  line-height: 20px;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+img {
+  height: 50vw;
+  max-height: 500px;
+}
+
+.sectionOneText,
+.sectionTwoText {
+  max-width: 500px;
+}
+/* Header */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: #1f2937;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+h1 {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+/* Section One */
+
+.sectionOne {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Section Two */
+
+.sectionTwo {
+  background-color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+/* Footer */
+
+footer {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  color: #f9faf8;
+}
